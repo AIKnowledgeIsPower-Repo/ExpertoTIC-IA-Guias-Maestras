@@ -12,13 +12,11 @@ Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado
 - **Ciberseguridad y Mejores Prácticas (20%):** Red Teaming de IA, Sandboxing y arquitecturas Zero-Trust.
 
 ## 📅 Roadmap 2026: 50 Guías Pro
-| Sem. | Título de la Guía | Categoría | Estado |
+|ID | Título de la Guía | Estado | Recurso |
 | :--- | :--- | :--- | :--- |
-| 01 | [SLM Soberanos: Por qué los modelos pequeños son el nuevo oro](./es/01-slm-soberanos.md) | Soberanía IA | ✅ Listo |
-| 02 | [Python Agéntico: Flujos que se ejecutan solos](./es/02-python-agentico.md) | IA / Dev | ✅ Listo |
-| 03 | [GitHub para Devs de IA: Dominando el control de versiones](./es/03-flujo-github.md) | Prácticas IT | ✅ Listo |
-| 04 | [Ciberseguridad de IA: Defendiendo contra amenazas autónomas](./es/04-ciberseguridad-ia.md) | Seguridad | ⏳ Próximo |
-| 05 | [Camino a la Singularidad: Preparación para la AGI](./es/05-singularidad-agi.md) | Singularidad | ⏳ Próximo |
+| 01 | Deploying Sovereign SLMs | ✅ Listo | [Lea la Guía](guides/01-sovereign-slm-deployment.md) |
+| 02 | Agentic Python & Autonomous Workflows | ✅ Listo | [Lea la Guía](guides/01-sovereign-slm-deployment.md) |
+
 
 ## 🛡️ Descargo de Responsabilidad Educativa
 Todo el contenido es para fines educativos. Utilice siempre entornos aislados (sandboxes) para agentes autónomos.
