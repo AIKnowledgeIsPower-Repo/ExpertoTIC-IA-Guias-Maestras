@@ -2,7 +2,7 @@
 
 ## 🌐 Empoderando la Innovación Global mediante Inteligencia Soberana y Flujos Autónomos Seguros.
 
-![Banner](https://tu-link-de-imagen-aqui.com)
+![Banner]([imagenes/GitHub-Spanish.png](https://github.com/AIKnowledgeIsPower-Repo/ExpertoTIC-IA-Guias-Maestras/blob/main/imagenes/GitHub-Spanish.png))
 
 Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado a proporcionar información técnica de alto nivel sobre el futuro de la Inteligencia.
 
