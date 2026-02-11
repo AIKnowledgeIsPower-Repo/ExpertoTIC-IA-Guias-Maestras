@@ -14,7 +14,7 @@ Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado
 ## 📅 Roadmap 2026: 50 Guías Pro
 |ID | Título de la Guía | Estado | Recurso |
 | :--- | :--- | :--- | :--- |
-| 01 | Despliegue de SLMs Soberanos: Autonomía y Privacidad en la IA| ✅ Listo | [Lea la Guía](guides/01-sovereign-slm-deployment.md) |
+| 01 | Despliegue de SLMs Soberanos: Autonomía y Privacidad en la IA| ✅ Listo | [Lea la Guía](guias/01-despliegue-slm-soberano.md) |
 | 02 | Python Agéntico y Flujos Autónomos | ✅ Listo | [Lea la Guía](guides/01-sovereign-slm-deployment.md) |
 
 
