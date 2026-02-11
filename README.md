@@ -15,7 +15,7 @@ Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado
 |ID | Título de la Guía | Estado | Recurso |
 | :--- | :--- | :--- | :--- |
 | 01 | Deploying Sovereign SLMs | ✅ Listo | [Lea la Guía](guides/01-sovereign-slm-deployment.md) |
-| 02 | Agentic Python & Autonomous Workflows | ✅ Listo | [Lea la Guía](guides/01-sovereign-slm-deployment.md) |
+| 02 | Python Agéntico y Flujos Autónomos | ✅ Listo | [Lea la Guía](guides/01-sovereign-slm-deployment.md) |
 
 
 ## 🛡️ Descargo de Responsabilidad Educativa
