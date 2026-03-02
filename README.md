@@ -16,7 +16,10 @@ Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado
 | :--- | :--- | :--- | :--- |
 | 01 | Despliegue de SLMs Soberanos: Autonomía y Privacidad en la IA| ✅ Listo | [Lea la Guía](guias/01-despliegue-slm-soberano.md) |
 | 02 | Python Agéntico y Flujos Autónomos | ✅ Listo | [Lea la Guía](guias/02-python-agentico-flujos-autonomos.md) |
-
+| 03 | Despliegue de SLMs Soberanos: Autonomía y Privacidad en la IA| ✅ Listo | [Lea la Guía](guias/01-despliegue-slm-soberano.md) |
+| 04 | Python Agéntico y Flujos Autónomos | ✅ Listo | [Lea la Guía](guias/02-python-agentico-flujos-autonomos.md) |
+| 05 | Despliegue de SLMs Soberanos: Autonomía y Privacidad en la IA| ✅ Listo | [Lea la Guía](guias/01-despliegue-slm-soberano.md) |
+| 06 | Python Agéntico y Flujos Autónomos | ✅ Listo | [Lea la Guía](guias/02-python-agentico-flujos-autonomos.md) |
 
 ## 🛡️ Descargo de Responsabilidad Educativa
 Todo el contenido es para fines educativos. Utilice siempre entornos aislados (sandboxes) para agentes autónomos.
