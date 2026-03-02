@@ -11,15 +11,19 @@ Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado
 - Autonomía Industrial (20%): Transformando pilotos de IA en agentes autónomos a escala de producción. Nos enfocamos en la intersección entre la Transformación Digital y el Python Agéntico.
 - Defensa Adversaria (20%): Asegurando el futuro de la TI. Nuestro enfoque se mantiene en el Red Teaming de IA, entornos de ejecución aislados (sandboxed) y mejores prácticas de seguridad post-cuántica.
 
-## 📅 Roadmap 2026: 50 Guías Pro
-|ID | Título de la Guía | Estado | Recurso |
+## 📅 Hoja de ruta 2026: Guías profesionales
+| ID | Pilar | Tema / Titulo de la Guia | Recurso |
 | :--- | :--- | :--- | :--- |
-| 01 | Despliegue de SLMs Soberanos: Autonomía y Privacidad en la IA| ✅ Listo | [Lea la Guía](guias/01-despliegue-slm-soberano.md) |
-| 02 | Python Agéntico y Flujos Autónomos | ✅ Listo | [Lea la Guía](guias/02-python-agentico-flujos-autonomos.md) |
-| 03 | Despliegue de SLMs Soberanos: Autonomía y Privacidad en la IA| ✅ Listo | [Lea la Guía](guias/01-despliegue-slm-soberano.md) |
-| 04 | Python Agéntico y Flujos Autónomos | ✅ Listo | [Lea la Guía](guias/02-python-agentico-flujos-autonomos.md) |
-| 05 | Despliegue de SLMs Soberanos: Autonomía y Privacidad en la IA| ✅ Listo | [Lea la Guía](guias/01-despliegue-slm-soberano.md) |
-| 06 | Python Agéntico y Flujos Autónomos | ✅ Listo | [Lea la Guía](guias/02-python-agentico-flujos-autonomos.md) |
+| 01 | AI | Agentic AI & The Reasoning Revolution | [Read Guide](guides/01-agentic-ai-reasoning-en.md) |
+| 02 | AI | Sovereign AI & Localized Infrastructure | [Read Guide](guides/02-sovereign-ai-localization-en.md) |
+| 03 | AI | Self-Verification & The Death of Hallucination | [Read Guide](guides/03-unified-omni-model-arch.md) |
+| 04 | AI | Persistent Memory & Contextual Continuity | [Read Guide](guides/04-sovereign-slm-deployment.md) |
+| 05 | AI | English as the New Programming Language | [Read Guide](guides/05-agentic-python-autonomous-workflows.md) |
+| 06 | AI | World Models & Spatial Intelligence | [Read Guide](guides/06-unified-omni-model-arch.md) |
+| 07 | DX | The ROI Pivot: From AI Pilots to Industrial Scale | [Read Guide](guides/07-unified-omni-model-arch.md) |
+| 08 | DX | The Industrial Metaverse & AI-Native Twins | [Read Guide](guides/08-sovereign-slm-deployment.md) |
+| 09 | Cyber | Post-Quantum Cryptography (PQC) Migration Strategy | [Read Guide](guides/09-agentic-python-autonomous-workflows.md) |
+| 10 | Cyber | Autonomous Threat Hunting with Agentic SOAR | [Read Guide](guides/10-unified-omni-model-arch.md) |
 
 ## 🛡️ Descargo de Responsabilidad Educativa
 Todo el contenido es para fines educativos. Utilice siempre entornos aislados (sandboxes) para agentes autónomos.
