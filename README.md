@@ -6,10 +6,10 @@
 
 Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado a proporcionar información técnica de alto nivel sobre el futuro de la Inteligencia.
 
-## 🎯 Nuestro Enfoque
-- **Soberanía de IA y Singularidad (60%):** SLMs locales, preparación para la AGI y mejora recursiva.
-- **Transformación Digital (20%):** Implementación de flujos autónomos en industrias globales.
-- **Ciberseguridad y Mejores Prácticas (20%):** Red Teaming de IA, Sandboxing y arquitecturas Zero-Trust.
+## 🎯 Nuestro Enfoque para 2026
+- Inteligencia Soberana (60%): Superando la dependencia de la nube. Nos especializamos en el despliegue de SLM (modelos de lenguaje pequeños) on-premise, optimización recursiva y frameworks listos para la Singularidad.
+- Autonomía Industrial (20%): Transformando pilotos de IA en agentes autónomos a escala de producción. Nos enfocamos en la intersección entre la Transformación Digital y el Python Agéntico.
+- Defensa Adversaria (20%): Asegurando el futuro de la TI. Nuestro enfoque se mantiene en el Red Teaming de IA, entornos de ejecución aislados (sandboxed) y mejores prácticas de seguridad post-cuántica.
 
 ## 📅 Roadmap 2026: 50 Guías Pro
 |ID | Título de la Guía | Estado | Recurso |
