@@ -4,7 +4,7 @@
 
 ![Banner](https://github.com/AIKnowledgeIsPower-Repo/ExpertoTIC-IA-Guias-Maestras/blob/main/imagenes/GitHub-Spanish.png)
 
-Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado a proporcionar información técnica de alto nivel sobre el futuro de la Inteligencia.
+Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado a proporcionar información técnica de alto nivel sobre el futuro de la Inteligencia Soberana.
 
 ## 🎯 Nuestro Enfoque para 2026
 - Inteligencia Soberana (60%): Superando la dependencia de la nube. Nos especializamos en el despliegue de SLM (modelos de lenguaje pequeños) on-premise, optimización recursiva y frameworks listos para la Singularidad.
