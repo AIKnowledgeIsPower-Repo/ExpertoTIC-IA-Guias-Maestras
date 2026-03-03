@@ -14,16 +14,16 @@ Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado
 ## 📅 Hoja de ruta 2026: Guías profesionales
 | ID | Pilar | Tema / Titulo de la Guia | Recurso |
 | :--- | :--- | :--- | :--- |
-| 01 |IA | IA Agéntica y la Revolución del Razonamiento | [Leer Guia](guias/01-ia-agentica-razonamiento-es.md) |
-| 02 | IA | Sovereign AI & Localized Infrastructure | [Leer Guia](guias/02-sovereign-ai-localization-en.md) |
-| 03 | IA | Self-Verification & The Death of Hallucination | [Leer Guia](guias/03-unified-omni-model-arch.md) |
-| 04 | IA | Persistent Memory & Contextual Continuity | [Leer Guia](guias/04-sovereign-slm-deployment.md) |
-| 05 | IA | English as the New Programming Language | [Leer Guia](guias/05-agentic-python-autonomous-workflows.md) |
-| 06 | IA | World Models & Spatial Intelligence | [Leer Guia](guias/06-unified-omni-model-arch.md) |
-| 07 | DX | The ROI Pivot: From AI Pilots to Industrial Scale | [Leer Guia](guias/07-unified-omni-model-arch.md) |
-| 08 | DX | The Industrial Metaverse & AI-Native Twins | [Leer Guia](guias/08-sovereign-slm-deployment.md) |
-| 09 | Cyber | Post-Quantum Cryptography (PQC) Migration Strategy | [Leer Guia](guias/09-agentic-python-autonomous-workflows.md) |
-| 10 | Cyber | Autonomous Threat Hunting with Agentic SOAR | [Leer Guia](guias/10-unified-omni-model-arch.md) |
+| 01 | IA | IA Agéntica y la Revolución del Razonamiento | [Leer Guia](guias/01-ia-agentica-razonamiento-es.md) |
+| 02 | IA | IA Soberana e Infraestructura Localizada | [Leer Guia](guias/02-ia-soberana-infraestructura-localizada-es.md) |
+| 03 | IA | Autoverificación y la Muerte de las Alucinaciones | [Leer Guia](guias/03-autoverificacion-alucinacion-es.md) |
+| 04 | IA | Memoria Persistente y Continuidad Contextual | [Leer Guia](guias/04-memoria-persistente-continuidad-contextual-es.md) |
+| 05 | IA | El Inglés como el Nuevo Lenguaje de Programación | [Leer Guia](guias/05-ingles-nuevo-lenguaje-programacion-es.md) |
+| 06 | IA | Modelos de Mundo e Inteligencia Espacial | [Leer Guia](guias/06-modelos-mundo-inteligencia-espacial-es.md) |
+| 07 | DX | El Pivote del ROI: De Pilotos de IA a Escala Industrial | [Leer Guia](guias/07-pivote-roi-escala-industrial-es.md) |
+| 08 | DX | El Metaverso Industrial y Gemelos Nativos de IA | [Leer Guia](guias/08-metaverso-industrial-gemelos-nativos-ia-es.md) |
+| 09 | Cyber | Estrategia de Migración a Criptografía Post-Cuántica (PQC) | [Leer Guia](guias/09-estrategia-migracion-pqc-es.md) |
+| 10 | Cyber | Caza Autónoma de Amenazas con SOAR Agéntico | [Leer Guia](guias/10-caza-autonoma-amenazas-soar-agentico-es.md) |
 
 ## 🛡️ Descargo de Responsabilidad Educativa
 Todo el contenido es para fines educativos. Utilice siempre entornos aislados (sandboxes) para agentes autónomos.
