@@ -14,12 +14,12 @@ Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado
 ## 📅 Hoja de ruta 2026: Guías profesionales
 | ID | Pilar | Tema / Titulo de la Guia | Recurso |
 | :--- | :--- | :--- | :--- |
-| 01 | AI | Agentic AI & The Reasoning Revolution | [Read Guide](guides/01-agentic-ai-reasoning-en.md) |
-| 02 | AI | Sovereign AI & Localized Infrastructure | [Read Guide](guides/02-sovereign-ai-localization-en.md) |
-| 03 | AI | Self-Verification & The Death of Hallucination | [Read Guide](guides/03-unified-omni-model-arch.md) |
-| 04 | AI | Persistent Memory & Contextual Continuity | [Read Guide](guides/04-sovereign-slm-deployment.md) |
-| 05 | AI | English as the New Programming Language | [Read Guide](guides/05-agentic-python-autonomous-workflows.md) |
-| 06 | AI | World Models & Spatial Intelligence | [Read Guide](guides/06-unified-omni-model-arch.md) |
+| 01 |IA | Agentic AI & The Reasoning Revolution | [Read Guide](guides/01-agentic-ai-reasoning-en.md) |
+| 02 | IA | Sovereign AI & Localized Infrastructure | [Read Guide](guides/02-sovereign-ai-localization-en.md) |
+| 03 | IA | Self-Verification & The Death of Hallucination | [Read Guide](guides/03-unified-omni-model-arch.md) |
+| 04 | IA | Persistent Memory & Contextual Continuity | [Read Guide](guides/04-sovereign-slm-deployment.md) |
+| 05 | IA | English as the New Programming Language | [Read Guide](guides/05-agentic-python-autonomous-workflows.md) |
+| 06 | IA | World Models & Spatial Intelligence | [Read Guide](guides/06-unified-omni-model-arch.md) |
 | 07 | DX | The ROI Pivot: From AI Pilots to Industrial Scale | [Read Guide](guides/07-unified-omni-model-arch.md) |
 | 08 | DX | The Industrial Metaverse & AI-Native Twins | [Read Guide](guides/08-sovereign-slm-deployment.md) |
 | 09 | Cyber | Post-Quantum Cryptography (PQC) Migration Strategy | [Read Guide](guides/09-agentic-python-autonomous-workflows.md) |
