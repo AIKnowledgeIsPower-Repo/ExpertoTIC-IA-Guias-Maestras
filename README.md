@@ -14,7 +14,7 @@ Bienvenido al repositorio oficial de **@ExpertoTIC*. Este espacio está dedicado
 ## 📅 Hoja de ruta 2026: Guías profesionales
 | ID | Pilar | Tema / Titulo de la Guia | Recurso |
 | :--- | :--- | :--- | :--- |
-| 01 |IA | Agentic AI & The Reasoning Revolution | [Read Guide](guides/01-agentic-ai-reasoning-en.md) |
+| 01 |IA | IA Agéntica y la Revolución del Razonamiento | [Read Guide](guides/01-agentic-ai-reasoning-en.md) |
 | 02 | IA | Sovereign AI & Localized Infrastructure | [Read Guide](guides/02-sovereign-ai-localization-en.md) |
 | 03 | IA | Self-Verification & The Death of Hallucination | [Read Guide](guides/03-unified-omni-model-arch.md) |
 | 04 | IA | Persistent Memory & Contextual Continuity | [Read Guide](guides/04-sovereign-slm-deployment.md) |
